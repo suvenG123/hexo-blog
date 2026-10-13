@@ -1,12 +1,8 @@
 ---
-title: Hexo 博客部署到 Cloudflare Pages 完整教程
+title: Hexo 博客部署到 Cloudflare Pages 完整教程（小白版）
 date: 2026-10-13 10:00:00
-tags:
-  - Hexo
-  - Cloudflare
-  - 教程
-categories:
-  - 教程
+tags: [Hexo, Cloudflare, 教程]
+categories: [建站]
 ---
 
 > **目标**：本地写 Markdown → 推到 GitHub → Cloudflare Pages 自动构建 → 用 readhaven567.top 访问
