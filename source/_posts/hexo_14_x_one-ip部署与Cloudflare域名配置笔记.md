@@ -1,3 +1,10 @@
+---
+title: One IP部署与Cloudflare域名配置笔记
+date: 2026-10-14 19:30:00
+tags: [cloudflare]
+categories: [部署]
+---
+
 # one-ip 部署与 Cloudflare 域名配置笔记
 
 > 记录一次完整的部署过程：从 Fork 仓库、导入 Cloudflare Pages，到绑定自定义域名、理清 GoDaddy 与 Cloudflare 的分工。
